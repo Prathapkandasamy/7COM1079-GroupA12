@@ -128,20 +128,20 @@ cat("\nCurrent working directory is:\n")
 print(getwd())
 
 # Save the plot to a PNG file in the working directory
-png("top5_bodyparts_by_gender.png", width = 900, height = 600)
+# Optional: Full body-part bar plot used in report
+png("BodyPart_by_Gender.png", width = 1200, height = 800)
 
 barplot(
-  cont_top5,
-  beside = FALSE,
-  col = c("lightblue", "pink"),
-  main = "Top 5 Injured Body Parts by Gender",
-  xlab = "Body Part",
+  table(df2$Gender_clean, df2$BodyPart_clean),
+  beside = TRUE,
+  main = "Distribution of Injured Body Parts by Gender",
+  xlab = "Body Part Category",
   ylab = "Number of Injuries",
-  legend.text = rownames(cont_top5),
-  args.legend = list(x = "topright")
+  legend.text = TRUE
 )
 
 dev.off()
+
 
 cat("\nSaved plot as 'top5_bodyparts_by_gender.png' in the folder:\n")
 print(getwd())
