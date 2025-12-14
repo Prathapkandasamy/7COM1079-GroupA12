@@ -1,4 +1,4 @@
-# ---------------------------------------------------------
+# --------------------------------------------------------
 # 7COM1079 – Amusement Park Injury Analysis
 # Dataset object in Environment:
 #   Amusement_Park_Injuries_xlsxCleaned
