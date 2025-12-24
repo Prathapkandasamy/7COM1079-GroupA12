@@ -1,7 +1,7 @@
-# --------------------------------------------------------
-# 7COM1079 – Amusement Park Injury Analysis
-# Dataset object in Environment:
-#   Amusement_Park_Injuries_xlsxCleaned
+# ---------------------------------------------
+# Module: 7COM1079
+# Project: Amusement Park Injury Analysis
+# Velan Sivasankaran
 #
 # Research Question:
 #   Is there a difference in the proportion of injured
