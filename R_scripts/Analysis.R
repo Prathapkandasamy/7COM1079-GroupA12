@@ -6,7 +6,7 @@
 # Research Question:
 #   Is there a difference in the proportion of injured
 #   body parts between male and female riders?
-# ---------------------------------------------------------
+# -------------------------------------------------------
 
 # 0. Use the imported dataset -----------------------------
 
