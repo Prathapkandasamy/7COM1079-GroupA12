@@ -9,7 +9,7 @@ This repository contains all files for our 7COM1079 group project, including:
 Collaborators:
 1. Prathap kandasamy
 2. Padmanaban murugan
-3. Velan sivasankaran
+3. Velan Sivasankaran
 4. Mythili Pavazhavannan
 5. Rithvik Reddy Dasari
 
