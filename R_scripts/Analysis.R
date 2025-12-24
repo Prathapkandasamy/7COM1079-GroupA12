@@ -8,7 +8,7 @@
 #   body parts between male and female riders?
 # ---------------------------------------------------------
 
-# 0. Use the imported dataset ------------------------------
+# 0. Use the imported dataset -----------------------------
 
 # This assumes you already imported the Excel/CSV file into RStudio
 # and it appears in the Environment as:
