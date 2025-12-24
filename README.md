@@ -1,6 +1,6 @@
 # 7COM1079 Group Project – Group A12
 
-This repository contains all files for our 7COM1079 group project, including:
+This repository contains all files for our 7COM1079 group project, including:-
 - R scripts
 - Visualisations
 - Data files
